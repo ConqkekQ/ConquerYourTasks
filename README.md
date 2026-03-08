@@ -18,6 +18,7 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
  ## Status Projektu
 * [x] **Artefakt 1:** Architektura i struktura folderów.
 * [x] **Artefakt 2:** Środowisko wielokontenerowe uruchomione lokalnie (Docker Compose).
+* [x] **Artefakt 3:** Działająca warstwa prezentacji.
  
 > **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje 'Quick Start', opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
  
