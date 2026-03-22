@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student-wroclaw\\Documents\\GitHub\\ConquerYourTasks\\backend\\CloudBackend.csproj": {}
+    "C:\\Users\\student-wroclaw\\Desktop\\ConquerYourTasks\\backend\\CloudBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student-wroclaw\\Documents\\GitHub\\ConquerYourTasks\\backend\\CloudBackend.csproj": {
+    "C:\\Users\\student-wroclaw\\Desktop\\ConquerYourTasks\\backend\\CloudBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student-wroclaw\\Documents\\GitHub\\ConquerYourTasks\\backend\\CloudBackend.csproj",
+        "projectUniqueName": "C:\\Users\\student-wroclaw\\Desktop\\ConquerYourTasks\\backend\\CloudBackend.csproj",
         "projectName": "CloudBackend",
-        "projectPath": "C:\\Users\\student-wroclaw\\Documents\\GitHub\\ConquerYourTasks\\backend\\CloudBackend.csproj",
+        "projectPath": "C:\\Users\\student-wroclaw\\Desktop\\ConquerYourTasks\\backend\\CloudBackend.csproj",
         "packagesPath": "C:\\Users\\student-wroclaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student-wroclaw\\Documents\\GitHub\\ConquerYourTasks\\backend\\obj\\",
+        "outputPath": "C:\\Users\\student-wroclaw\\Desktop\\ConquerYourTasks\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\student-wroclaw\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +50,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -80,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
