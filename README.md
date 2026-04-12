@@ -22,6 +22,7 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
 * [x] **Artefakt 4:** Działająca warstwa logiki backendu
 * [x] **Artefakt 5:** System gotowy na chmurę
 * [x] **Artefakt 6:** Backend i frontend działający z Azure.
+* [x] **Artefakt 7:** Bezpieczeństwo i skalowane skonfigurowane 1/2.
 
 ## Adres Aplikacji: https://cloud-task-manafer-frontend-c8f5d7cwa8a0gchf.polandcentral-01.azurewebsites.net
 
